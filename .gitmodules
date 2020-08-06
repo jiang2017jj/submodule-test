@@ -1,3 +1,6 @@
 [submodule "pili"]
 	path = pili
 	url = git@github.com:jiang2017jj/pili.git
+[submodule "third-party/pili"]
+	path = third-party/pili
+	url = git@github.com:jiang2017jj/pili.git
